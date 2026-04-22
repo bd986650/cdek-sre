@@ -1,0 +1,9 @@
+[2026-04-22 10:58:19] Service unavailable — restarting via docker compose...
+ Container cdek-sre  Restarting
+ Container cdek-sre  Started
+[2026-04-22 11:17:04] Service unavailable — restarting via docker compose...
+ Container cdek-sre  Restarting
+ Container cdek-sre  Started
+[2026-04-22 11:26:05] Service unavailable — restarting via docker compose...
+ Container cdek-sre  Restarting
+ Container cdek-sre  Started
